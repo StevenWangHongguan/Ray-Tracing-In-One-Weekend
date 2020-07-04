@@ -1,5 +1,6 @@
 # 项目简介
-an implement of a ray-tracer referring to the tutorial of 《Ray-Tracing In One Weekend》 
+an implement of a ray-tracer referring to the tutorial of 《Ray-Tracing In One Weekend》  
+
 该项目是根据《Ray-Tracing In One Weekend》教程实现的一个光线追踪器，目前仅提供了源文件。代码中有较多自己的注释，可作为参考。
 ***
 ## 项目组成
